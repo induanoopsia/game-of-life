@@ -13,7 +13,7 @@
         <easyb.version>1.4</easyb.version>
         <cobertura.version>2.6</cobertura.version>
         <!-- A workaround for a bug in PMD -->
-        <sourceJdk>11.0</sourceJdk>
+        <sourceJdk>11.1</sourceJdk>
         <targetJdk>11.0</targetJdk>
         <github.account>wakaleo</github.account>
         <thucydides.version>1.8.4</thucydides.version>
